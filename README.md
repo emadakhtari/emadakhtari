@@ -49,8 +49,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**eLearning**](https://github.com/emadakhtari/eLearning) | Multiple access for administrator, school principal, school director, teacher, parent, student - E-learning - Persianized with Bigbluebutton - All lessons, assignments, etc., are implemented on the calendar |  PHP Laravel , bootstrap framework , JavaScript , Bigbluebutton API (Completely Persianized and RTL) |
-| [**Chart**]([https://github.com/emadakhtari/chart]) | Multi access-Full Dynamic construction of various types of charts - Such as currency charts, gold, etc. - Select chart type (all chart types) - Infinite values for each chart and deletion and editing of each one - Export charts as Ajax for use across all platforms (responsive) . | PHP Laravel , bootstrap framework , JavaScript , Highcharts APIs |
-| [**Diption**]([https://github.com/emadakhtari/diption]) | A simple NFT marketplace just for a simple example, whose contracts are based on Metamask Wallet , creating and minting NFT based on Ethereum (test), buying NFT, creating Collection and choosing Category | Solidity, , Ethereum , Web3, pinata.cloud APIs, Hardhat, ReactJs - mui Framework |
+| [**Chart**](https://github.com/emadakhtari/Charts) | Multi access-Full Dynamic construction of various types of charts - Such as currency charts, gold, etc. - Select chart type (all chart types) - Infinite values for each chart and deletion and editing of each one - Export charts as Ajax for use across all platforms (responsive) . | PHP Laravel , bootstrap framework , JavaScript , Highcharts APIs |
+| [**Diption**](https://github.com/emadakhtari/Diption) | A simple NFT marketplace just for a simple example, whose contracts are based on Metamask Wallet , creating and minting NFT based on Ethereum (test), buying NFT, creating Collection and choosing Category | Solidity, , Ethereum , Web3, pinata.cloud APIs, Hardhat, ReactJs - mui Framework |
 
 ---
 
