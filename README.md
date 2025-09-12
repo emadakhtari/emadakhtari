@@ -55,19 +55,6 @@
 | [**Chart**](https://github.com/emadakhtari/Charts) | Multi access-Full Dynamic construction of various types of charts - Such as currency charts, gold, etc. - Select chart type (all chart types) - Infinite values for each chart and deletion and editing of each one - Export charts as Ajax for use across all platforms (responsive) . | PHP Laravel , bootstrap framework , JavaScript , Highcharts APIs |
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emadakhtari&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emadakhtari&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emadakhtari&theme=react-dark&hide_border=true" />
-</p>
-
----
 <!-- Connect With Me -->
 ### 🤝 Connect With Me
 <p align="center">
