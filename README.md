@@ -6,6 +6,8 @@
 ---
 
 ### 🚀 About Me
+- ❗ Unfortunately, most of my projects have been done for two semi-private companies, and in order **not to harm these companies**, I **cannot public** most of them.
+- 👨‍💻 During **interviews**, I can show projects that are not covered by non-disclosure agreements (NDAs) in their entirety, both in terms of **code and design**.
 - 💻 Full-stack developer with **16+ years** of experience building scalable, high-performance web & mobile applications.
 - 🔭 Currently working on **Persline (for Persepolis FC)** – a decentralized NFT marketplace powered by Ethereum & Polygon. **Non-Disclosure Agreement (NDA)**
 - 🌱 Exploring **Web3, AI-driven apps, and scalable microservices architectures**.
